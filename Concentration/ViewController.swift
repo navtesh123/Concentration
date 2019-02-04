@@ -3,7 +3,7 @@
 //  Concentration
 //
 //  Created by Navtesh Dhir on 04/02/19.
-//  Copyright © 2019 Navtesh Dhir. All rights reserved.
+//  Copyright © 2019 Navtesh Dhir. All rights reserved..
 //
 
 import UIKit
